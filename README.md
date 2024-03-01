@@ -1,5 +1,6 @@
 # Negative Image
 ## Matlab & Python Code
+#### !Some functions are not optimal, but required to learn how it works!
 
 ### Negative and Color image from grayscale
 <div align="center">
