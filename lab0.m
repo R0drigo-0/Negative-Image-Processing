@@ -1,14 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%% VC i PSIV                                                      %%%
-%%% Lab 0 (basat en les pr�ctiques de Gemma Rotger)                %%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%% 
-% Hello! Welcome to the computer vision LAB. This is a section, and 
-% you can execute it using the run section button on the top panel. If 
-% you prefer, you can run all the code using the run button. Run this 
-% section when you need to clear your data, figures and console 
-% messages.
 clearvars,
 close all,
 clc,
@@ -195,17 +184,6 @@ subplot(2,3,5);
 imshow(threshimtext2);
 subplot(2,3,6);
 imshow(threshimtext3);
-
-
-%% THE END -----------------------------------------------------------
-% Well done, you finished this lab! Now, remember to deliver it 
-% properly on Caronte.
-
-% File name:
-% lab0_NIU.zip 
-% (put matlab file lab0.m and python file lab0.py in the same zip file)
-% Example lab0_1234567.zip
-
 
 
 

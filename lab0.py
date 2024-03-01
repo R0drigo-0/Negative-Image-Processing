@@ -1,9 +1,3 @@
-######################################################################
-### VC i PSIV                                                      ###
-### Lab 0 (basat en material de Gemma Rotger)                      ###
-######################################################################
-
-
 # Hello! Welcome to the computer vision LAB.
 import time
 import cv2
@@ -163,13 +157,3 @@ ax[1,0].imshow(threshimtext1)
 ax[1,1].imshow(threshimtext2)
 ax[1,2].imshow(threshimtext3)
 plt.show()
-
-
-## THE END -----------------------------------------------------------
-# Well done, you finished this lab! Now, remember to deliver it
-# properly on Caronte.
-
-# File name:
-# lab0_NIU.zip
-# (put matlab file lab0.m and python file lab0.py in the same zip file)
-# Example lab0_1234567.zip
